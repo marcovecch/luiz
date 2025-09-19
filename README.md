@@ -1,0 +1,2 @@
+# luiz
+minha gpu
